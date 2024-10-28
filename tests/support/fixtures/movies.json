@@ -1,0 +1,82 @@
+{
+    "create": {
+        "title": "Guerra Mundial Z",
+        "overview": "Um ex-investigador da ONU precisa correr contra o tempo para tentar impedir a pandemia que está derrotando exércitos e governos e ameaçando dizimar a própria humanidade.",
+        "company": "Paramount Pictures",
+        "release_year": 2013,
+        "featured": false,
+        "cover": "/images/world_war_z.png"
+    },
+    "resident_evil": {
+        "title": "Resident Evil",
+        "overview": "Uma equipe de elite é enviada para conter um vírus mortal que transformou os funcionários de uma instalação de pesquisa em zumbis.",
+        "company": "Sony Pictures",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "/images/resident_evil.png"
+    },
+    "madrugada_dos_mortos": {
+        "title": "Madrugada dos Mortos",
+        "overview": "Um grupo de sobreviventes se refugia em um shopping center enquanto o mundo ao seu redor é tomado por mortos-vivos.",
+        "company": "Universal Pictures",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "/images/dawn_of_the_dead.png"
+    },
+    "exterminio": {
+        "title": "Extermínio",
+        "overview": "Vinte e oito dias após um vírus devastador ser liberado, um grupo de sobreviventes luta para encontrar um refúgio seguro em uma Londres destruída.",
+        "company": "Fox Searchlight Pictures",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "/images/28_days_later.png"
+    },
+    "zumbilandia": {
+        "title": "Zumbilândia",
+        "overview": "Em um mundo pós-apocalíptico, um grupo de sobreviventes tenta se manter vivos enquanto enfrentam hordas de zumbis e suas próprias peculiaridades.",
+        "company": "Columbia Pictures",
+        "release_year": 2009,
+        "featured": false,
+        "cover": "/images/zombieland.png"
+    },
+    "o_despertar_dos_mortos": {
+        "title": "O Despertar dos Mortos",
+        "overview": "Em um shopping center, sobreviventes buscam abrigo enquanto zumbis tomam as ruas do país.",
+        "company": "Laurel Group",
+        "release_year": 1978,
+        "featured": false,
+        "cover": "/images/dawn_of_the_dead_1978.png"
+    },
+    "rec": {
+        "title": "REC",
+        "overview": "Uma jornalista e sua equipe de filmagem se veem presos em um edifício em quarentena, enfrentando uma infecção misteriosa que transforma pessoas em monstros.",
+        "company": "Filmax",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "/images/rec.png"
+    },
+    "a_noite_dos_mortos_vivos": {
+        "title": "A Noite dos Mortos-Vivos",
+        "overview": "Um grupo de pessoas se refugia em uma casa de campo para se proteger de uma horda de zumbis que se levanta para devorar os vivos.",
+        "company": "Continental Distributing",
+        "release_year": 1968,
+        "featured": false,
+        "cover": "/images/night_of_the_living_dead.png"
+    },
+    "o_exercito_dos_mortos": {
+        "title": "O Exército dos Mortos",
+        "overview": "Após um surto de zumbis em Las Vegas, um grupo de mercenários arrisca tudo para realizar o maior assalto de suas vidas em uma área de quarentena.",
+        "company": "Netflix",
+        "release_year": 2021,
+        "featured": false,
+        "cover": "/images/army_of_the_dead.png"
+    },
+    "invasao_zumbi": {
+        "title": "Invasão Zumbi",
+        "overview": "Enquanto a Coreia do Sul enfrenta uma epidemia zumbi, passageiros em um trem-bala precisam lutar pela sobrevivência.",
+        "company": "Next Entertainment World",
+        "release_year": 2016,
+        "featured": false,
+        "cover": "/images/train_to_busan.png"
+    }
+}
